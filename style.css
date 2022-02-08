@@ -1,7 +1,10 @@
         h1 { color:white; 
 
 }
-
+.about-me-picture-1 { float:left; 
+}
+.about-me-picture-2 { float:right;
+}
         p {
             color: white;
             margin-right: 30px;
